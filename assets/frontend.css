@@ -1,0 +1,13 @@
+.ccc-base-currency-link,
+.ccc-base-currency-link:focus,
+.ccc-base-currency-link:visited,
+.ccc-base-currency-link:hover,
+.ccc-base-currency-link:visited:hover {
+    color: inherit !important;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+}
+
+.ccc-iframe {
+    margin: 0;
+}
